@@ -1,0 +1,7 @@
+C:\Users\CTEA\Desktop\XML\XML\XML\bin\Debug\XML.exe.config
+C:\Users\CTEA\Desktop\XML\XML\XML\bin\Debug\XML.exe
+C:\Users\CTEA\Desktop\XML\XML\XML\bin\Debug\XML.pdb
+C:\Users\CTEA\Desktop\XML\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\CTEA\Desktop\XML\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\CTEA\Desktop\XML\XML\XML\obj\Debug\XML.exe
+C:\Users\CTEA\Desktop\XML\XML\XML\obj\Debug\XML.pdb
